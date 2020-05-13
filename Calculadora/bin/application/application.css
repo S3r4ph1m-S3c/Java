@@ -1,0 +1,44 @@
+.button
+{
+	-fx-background-color:#0066ff;
+	-fx-text-fill: white;
+	-fx-font-size:28;
+	-fx-font-weight: bold;
+}
+
+.button:pressed
+{
+	-fx-background-color:#3385ff;
+	-fx-text-fill: white;
+	-fx-font-size:28;
+	-fx-font-weight: bold;
+}
+
+.button2
+{
+	-fx-background-color:#3385ff;
+	-fx-text-fill: white;
+	-fx-font-size:28;
+	-fx-font-weight: bold;
+}
+
+.button2:pressed
+{
+	-fx-background-color:#66a3ff;
+	-fx-text-fill: white;
+	-fx-font-size:28;
+	-fx-font-weight: bold;
+}
+
+.text-field
+{
+	-fx-font-size:30;
+	-fx-font-weight: bold;
+	-fx-background-color: white;
+	
+}
+
+
+
+
+
